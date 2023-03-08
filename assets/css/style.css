@@ -1,0 +1,19 @@
+img {
+    max-width: 100%;
+}
+
+.visualization-chart {
+    width: 25%;
+}
+
+@media screen and (min-width: 670px) {
+    .visualization-chart {
+        width: 50%;
+    }
+}
+
+
+h1 {
+    border-bottom: 2px solid black;
+    display: inline-block;
+}
